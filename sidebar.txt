@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[waq:home|Door43 (waq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-waq|d43-waq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-waq/archive/master.zip|d43-waq.zip]]
+
+**Recent Changes**
+{{changes>ns = waq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/waq|Ethnologue data]]
+
